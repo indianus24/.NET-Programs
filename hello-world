@@ -1,0 +1,9 @@
+This is the world’s favorite programming example, translated to Visual Basic .NET:
+
+Code goes here:
+Imports System
+Public Module Hello
+   Public Sub Main(  )
+      Console.WriteLine("hello, world")
+   End Sub
+End Module
